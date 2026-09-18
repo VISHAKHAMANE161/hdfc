@@ -1,0 +1,1 @@
+writelines() is used in Python to write multiple strings (lines) into a file at once.Searching find an item or report not found
